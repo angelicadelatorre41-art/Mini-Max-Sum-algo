@@ -1,1 +1,1 @@
-# Mini-Max-Sum-algo
+# Mini-Max-Sum-algo This program finds the minimum and maximum sum of four out of five integers in a list. It does this by sorting the list, summing the smallest four numbers for the minimum, and the largest four numbers for the maximum, then printing both results.
